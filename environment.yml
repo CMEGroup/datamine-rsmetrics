@@ -1,0 +1,11 @@
+name: datamine-rsmetrics
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3
+- jupyter
+- pandas
+- numpy
+- matplotlib
+- seaborn
