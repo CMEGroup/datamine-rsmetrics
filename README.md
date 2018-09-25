@@ -33,7 +33,7 @@ Alternatively, you can use your own python environment but review the environmen
 There are a notebook for data introduction and analysis.  The general summary of the notebook is below.
 
 ### RSmetrics Blog
-[CME Datamine RS Metrics Data Analysis](https://github.com/CMEGroup/datamine-rsmetrics/blob/master/RS%20metrics%20blog/RSmetrics-Blog.ipynb "RS Metrics Analysis")
+[CME Datamine RS Metrics Data Analysis](https://github.com/CMEGroup/datamine-rsmetrics/blob/master/RSmetrics-Blog.ipynb "RS Metrics Analysis")
 
 This analysis introduces RS Metrics data and finds a potential relationship between RS metrics data and CME copper futures data.
 
