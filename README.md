@@ -8,13 +8,9 @@ This project introduces a potential use of RS Metrics "MetalSignals" data.  Meta
 Further Information about RS Metrics and Datamine can be found at CME Group [CME Datamine RS Metrics Data](https://www.cmegroup.com/market-data/rs-metrics.html "CME Datamine RS Metrics Data") and [RS Metrics Information](https://rsmetrics.com/ "RS Metrics Homepage")
 
 
-
-<!---
-Insert Image of Seasonality Decom from Analysis
-![alt text](http://url/to/img.png)
---->
 ## Run on Binder
 Automatcially run this in a hosted jupyter notebook with all the dependencies.  
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/CMEGroup/datamine-rsmetrics/master)
 
 
 ## To Run This Analysis Locally
